@@ -1,0 +1,1 @@
+import{s as a,f as p}from"../chunks/scheduler.7c4769d9.js";import{S as r,i}from"../chunks/index.c95f37f1.js";import{p as c}from"../chunks/stores.252462b2.js";function m(o,e,t){let s;return p(o,c,n=>t(0,s=n)),console.log(s.path),[]}class g extends r{constructor(e){super(),i(this,e,m,null,a,{})}}export{g as component};
