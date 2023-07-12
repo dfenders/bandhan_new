@@ -1,0 +1,1 @@
+let a=i=>{const t=Array.from(document.querySelectorAll(".grid img, .new_grid img"));if("IntersectionObserver"in window){const s=new IntersectionObserver((e,n)=>{e.forEach(o=>{if(o.isIntersecting){const r=o.target;r.src=r.dataset.src,s.unobserve(r)}})});t.forEach(e=>s.observe(e))}};export{a as l};
