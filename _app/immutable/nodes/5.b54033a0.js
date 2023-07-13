@@ -1,4 +1,4 @@
-import{s,n as t}from"../chunks/scheduler.7c4769d9.js";import{S as n,i as l,g as d,h as c,x as h,k as u,a as m,f as b}from"../chunks/index.40695441.js";function y(i){let e,r=`<div style="max-width: 80ch;font-size: 18px;line-height: 1.5;font-style: italic;text-transform:lowercase;text-align:left;"><b>Taking care of your delicate macrame doll</b> <br/><br/>
+import{s,n as t}from"../chunks/scheduler.a7dff244.js";import{S as n,i as l,g as d,h as c,x as h,k as u,a as m,f as b}from"../chunks/index.6451a8db.js";function y(i){let e,r=`<div style="max-width: 80ch;font-size: 18px;line-height: 1.5;font-style: italic;text-transform:lowercase;text-align:left;"><b>Taking care of your delicate macrame doll</b> <br/><br/>
       dear customer, we want to ensure your treasured macrame doll remains as beautiful and enchanting as the day you brought it home.
       caring for these delicate creations is a breeze, and we&#39;re here to share a few simple tips to help you keep them in pristine condition.
       <br/><br/> <b>1. Handle with care:</b> macrame dolls are delicate and require gentle handling. avoid tugging or pulling on the knots and fibers, as this may cause damage.

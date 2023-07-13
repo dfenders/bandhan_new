@@ -1,4 +1,4 @@
-import{s as v,n as r}from"../chunks/scheduler.7c4769d9.js";import{S as y,i as m,g as u,s as g,h,x as b,c as x,k as c,l as n,a as l,f as o}from"../chunks/index.40695441.js";function w(f){let e,d="shipping policy",a,s,p=`We endeavour to ship your order within 1-2 business days.
+import{s as v,n as r}from"../chunks/scheduler.a7dff244.js";import{S as y,i as m,g as u,s as g,h,x as b,c as x,k as c,l as n,a as l,f as o}from"../chunks/index.6451a8db.js";function w(f){let e,d="shipping policy",a,s,p=`We endeavour to ship your order within 1-2 business days.
     <br/><br/>
     These days, courier times can be a little unpredictable in NZ - but on average, North Island orders will take 2-3 business days to be delivered, and South Island orders will take 1-2 business days. For rural delivery please allow 1-2 days longer. 
     <br/><br/>
