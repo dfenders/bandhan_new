@@ -1,4 +1,4 @@
-import{s as y,c as w,n as m}from"../chunks/scheduler.a7dff244.js";import{S as x,i as j,g as l,s as k,h as c,j as _,f as u,c as z,x as I,k as i,l as s,a as q,z as d}from"../chunks/index.fa93d247.js";import{b as g}from"../chunks/paths.94a6aeba.js";function D(v){let t,o,a,f,h,e,p=`<h2 style="font-weight:400;padding-left: 30px;">get in touch!</h2> <div class="description">hi! got a question? a complaint? or just want to tell us how much you adore your bandhan product? we would love to hear from you!
+import{s as y,c as w,n as m}from"../chunks/scheduler.a7dff244.js";import{S as x,i as j,g as l,s as k,h as c,j as _,f as u,c as z,z as I,k as i,l as s,a as q,y as d}from"../chunks/index.e5fdd447.js";import{b as g}from"../chunks/paths.4944e061.js";function D(v){let t,o,a,f,h,e,p=`<h2 style="font-weight:400;padding-left: 30px;">get in touch!</h2> <div class="description">hi! got a question? a complaint? or just want to tell us how much you adore your bandhan product? we would love to hear from you!
         <br/><br/>
         email us at: <a href="mailto:info@bandhan.co.nz">info@bandhan.co.nz</a> <br/><br/>
         or follow us for updates on:<br/>

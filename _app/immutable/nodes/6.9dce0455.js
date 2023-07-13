@@ -1,4 +1,4 @@
-import{s as m,n}from"../chunks/scheduler.a7dff244.js";import{S as w,i as g,g as l,s as b,h as u,x as p,c as v,k as y,l as d,a,f as s}from"../chunks/index.fa93d247.js";function _(f){let t,c="privacy policy",i,o,h=`This Privacy Policy describes how bandhan.co.nz (the “Site” or “we”) collects, uses, and discloses your Personal Information when you visit or make a purchase from the Site.
+import{s as m,n}from"../chunks/scheduler.a7dff244.js";import{S as w,i as g,g as l,s as b,h as u,z as p,c as v,k as y,l as d,a,f as s}from"../chunks/index.e5fdd447.js";function _(f){let t,c="privacy policy",i,o,h=`This Privacy Policy describes how bandhan.co.nz (the “Site” or “we”) collects, uses, and discloses your Personal Information when you visit or make a purchase from the Site.
 
     <h2>Contact</h2>
     After reviewing this policy, if you have additional questions, want more information about our privacy practices, or would like to make a complaint, please contact us by e-mail at <a href="mailto:info@bandhan.co.nz">info@bandhan.co.nz</a> or by mail using the details provided below:
